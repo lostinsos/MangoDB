@@ -1,8 +1,49 @@
 {
-  "title": "WangTangChang",
-  "description": "In a world revolving around crane games, Wantan-chan is a legendary pro at getting prizes with only one coin.",
+  "title": "WangTangChang The Yurutto Hunter",
+  "description": "In a world revolving around crane games, Wantan-chan is a legendary pro at getting prizes with only one coin.\n\n(Complete)",
   "artist": "Atsushi Nakayama",
   "author": "Atsushi Nakayama",
   "cover": "https://i.imgur.com/RIdaOji.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Enter, The Yurutto Hunter",
+      "volume": "1",
+      "last_updated": "1532180760",
+      "groups": {
+        "Jaimini's Box": "/proxy/api/imgur/chapter/PogRQYS"
+      }
+    },
+    "2": {
+      "title": "A Barbeque Battle Filled with ResentMEAT!!",
+      "volume": "1",
+      "last_updated": "1532180760",
+      "groups": {
+        "Jaimini's Box": "/proxy/api/imgur/chapter/tMVwLcd"
+      }
+    },
+    "3": {
+      "title": "Encounter!! Kiratto Hunter!!",
+      "volume": "1",
+      "last_updated": "1532180820",
+      "groups": {
+        "Jaimini's Box": "/proxy/api/imgur/chapter/KlYv2Na"
+      }
+    },
+    "4": {
+      "title": "Backed Into a Corner!! BouillonChang’s Trap!!!",
+      "volume": "1",
+      "last_updated": "1532180820",
+      "groups": {
+        "Jaimini's Box": "/proxy/api/imgur/chapter/fvPQ3qH"
+      }
+    },
+    "5": {
+      "title": "End of the World: Yurumageddon and The Return of The Prince (4)",
+      "volume": "1",
+      "last_updated": "1539613980",
+      "groups": {
+        "Jaimini's Box": "/proxy/api/imgur/chapter/c7UKhps"
+      }
+    }
+  }
 }
