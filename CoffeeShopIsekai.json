@@ -4,5 +4,22 @@
   "artist": "pon-marsh",
   "author": " Yuyu Kanna",
   "cover": "https://mangadex.org/covers/2370da67-5ddd-4cdb-9ed6-0963c6b322cb/df254b0c-6a45-4528-8c61-0ac229e9192f.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Hamburger For the One Who Oversleeps",
+      "volume": "1",
+      "last_updated": "1537899480",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/8Yz4nDK"
+      }
+    },
+    "2": {
+      "title": "Kids meal set for adults",
+      "volume": "1",
+      "last_updated": "1542134940",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/VkUc8he"
+      }
+    }
+  }
 }
