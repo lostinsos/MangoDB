@@ -48,7 +48,7 @@
     "6": {
       "title": "Renovation Work and Stamina Curry",
       "volume": "2",
-      "last_updated": "1666928676",
+      "last_updated": "1556132700",
       "groups": {
         "LHTranslation": "/proxy/api/imgur/chapter/3GvZgPi"
       }
@@ -61,12 +61,36 @@
         "LHTranslation": "/proxy/api/imgur/chapter/xAqgBwb"
       }
     },
+    "8": {
+      "title": "World Expo and Corn Portage",
+      "volume": "2",
+      "last_updated": "1556390040",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/4rVQfYW"
+      }
+    },
+    "9": {
+      "title": "Omelette of Tribulation",
+      "volume": "2",
+      "last_updated": "1556560620",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/M3J6ufX"
+      }
+    },
     "5.5": {
       "title": "Doki-Doki Taste",
       "volume": "1",
       "last_updated": "1555355100",
       "groups": {
         "LHTranslation": "/proxy/api/imgur/chapter/OTowI6o"
+      }
+    },
+    "9.5": {
+      "title": "A Stopover",
+      "volume": "2",
+      "last_updated": "1556564220",
+      "groups": {
+        "Unknown": "/proxy/api/imgur/chapter/hVyTBPw"
       }
     }
   }
