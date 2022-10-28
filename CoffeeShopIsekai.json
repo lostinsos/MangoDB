@@ -45,20 +45,28 @@
         "LHTranslation": "/proxy/api/imgur/chapter/jxNQrH6"
       }
     },
-    "5.5": {
-      "title": "Doki-Doki Taste",
-      "volume": "1",
-      "last_updated": "1555355100",
-      "groups": {
-        "LHTranslation": "/proxy/api/imgur/chapter/OTowI6o"
-      }
-    },
     "6": {
       "title": "Renovation Work and Stamina Curry",
       "volume": "2",
       "last_updated": "1666928676",
       "groups": {
         "LHTranslation": "/proxy/api/imgur/chapter/3GvZgPi"
+      }
+    },
+    "7": {
+      "title": "Hot and Cold Shaved Ice",
+      "volume": "2",
+      "last_updated": "1556296800",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/xAqgBwb"
+      }
+    },
+    "5.5": {
+      "title": "Doki-Doki Taste",
+      "volume": "1",
+      "last_updated": "1555355100",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/OTowI6o"
       }
     }
   }
