@@ -101,6 +101,38 @@
         "LHTranslation": "/proxy/api/imgur/chapter/RCHoWP9"
       }
     },
+    "13": {
+      "title": "A Certain Victory Indian Iron Plate",
+      "volume": "3",
+      "last_updated": "1557257100",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/bZVfkEN"
+      }
+    },
+    "14": {
+      "title": "Piping Hot Creamy Doria",
+      "volume": "3",
+      "last_updated": "1557516300",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/nK2P0V6"
+      }
+    },
+    "15": {
+      "title": "The Accountant's Mille Crêpe Logic",
+      "volume": "3",
+      "last_updated": "1557601500",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/46rN6nA"
+      }
+    },
+    "16": {
+      "title": "Complaint Management and Chilled Taiwanese Pasta",
+      "volume": "3",
+      "last_updated": "1599249900",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/sO5athD"
+      }
+    },
     "5.5": {
       "title": "Doki-Doki Taste",
       "volume": "1",
@@ -123,6 +155,22 @@
       "last_updated": "1557516300",
       "groups": {
         "LHTranslation": "/proxy/api/imgur/chapter/GlaFFtw"
+      }
+    },
+    "14.5": {
+      "title": "A Package of Rare Delicacies",
+      "volume": "3",
+      "last_updated": "1557516300",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/879FXD2"
+      }
+    },
+    "16.5": {
+      "title": "Natolle's Errand & the Meringue Cookies",
+      "volume": "3",
+      "last_updated": "1599206760",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/22bcalQ"
       }
     }
   }
