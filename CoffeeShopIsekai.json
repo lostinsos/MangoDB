@@ -93,6 +93,14 @@
         "LHTranslation": "/proxy/api/imgur/chapter/T8Vw6qo"
       }
     },
+    "12": {
+      "title": "Darkness' Ecstasy and Medicinal Porridge",
+      "volume": "2",
+      "last_updated": "1557083580",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/RCHoWP9"
+      }
+    },
     "5.5": {
       "title": "Doki-Doki Taste",
       "volume": "1",
@@ -107,6 +115,14 @@
       "last_updated": "1556564220",
       "groups": {
         "Unknown": "/proxy/api/imgur/chapter/hVyTBPw"
+      }
+    },
+    "12.5": {
+      "title": "Beast Exorcism",
+      "volume": "2",
+      "last_updated": "1557516300",
+      "groups": {
+        "LHTranslation": "/proxy/api/imgur/chapter/GlaFFtw"
       }
     }
   }
